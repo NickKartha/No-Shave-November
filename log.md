@@ -2,15 +2,15 @@
 - [1/11] Day 1: Let's start. I did not shave.
 - [2/11] Day 2: I did not shave.
 - [3/11] Day 3: I did not shave. Washed properly.
-- [4/11] tba
-- [5/11]
-- [6/11]
-- [7/11]
-- [8/11]
-- [9/11]
-- [10/11]
-- [11/11]
-- [12/11]
+- [4/11] Day 4: I shaved not.
+- [5/11] Day 5: I didn't shave.
+- [6/11] Day 6: Shave, I did not.
+- [7/11] Day 7: Still ushaven.
+- [8/11] Day 8: Noticing patches as hair grows enough to clump.
+- [9/11] Day 9: Patches more noticeable on the right side.
+- [10/11] Day 10: Stopped taking pictures for a few days. Still haven't shaved.
+- [11/11] Day 11: Will I shave today? Nah.
+- [12/11] Day 12: tba
 - [13/11]
 - [14/11]
 - [15/11]
