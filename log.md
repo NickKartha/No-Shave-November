@@ -10,23 +10,25 @@
 - [9/11] Day 9: Patches more noticeable on the right side.
 - [10/11] Day 10: Stopped taking pictures for a few days. Still haven't shaved.
 - [11/11] Day 11: Will I shave today? Nah.
-- [12/11] Day 12: tba
-- [13/11]
-- [14/11]
-- [15/11]
-- [16/11]
-- [17/11]
-- [18/11]
-- [19/11]
-- [20/11]
-- [21/11]
-- [22/11]
-- [23/11]
-- [24/11]
-- [25/11]
-- [26/11]
-- [27/11]
-- [28/11]
-- [29/11]
-- [30/11]
-- [31/11]
+- [12/11] Day 12: Didn't shave again.
+- [13/11] Day 13: I
+- [14/11] Day 14: //
+- [15/11] Day 15: D
+- [16/11] Day 16: I
+- [17/11] Day 17: D
+- [18/11] Day 18: //
+- [19/11] Day 19: N
+- [20/11] Day 20: O
+- [21/11] Day 21: T
+- [22/11] Day 22: //
+- [23/11] Day 23: S
+- [24/11] Day 24: H
+- [25/11] Day 25: A
+- [26/11] Day 26: V
+- [27/11] Day 27: E
+- [28/11] Day 28://
+- [29/11] Day 29: Almost effortless.
+- [30/11] Day 30: Mission accomplished.
+- [31/11] Day 31: This day did not exist.
+
+Successfully completed!
